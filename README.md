@@ -10,10 +10,10 @@ A brief description of your project and what it does.
 
 ```bash
 # Clone the repo
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/RawanYasser297/Tic_Tac_Toe.git
 
 # Navigate into the folder
-cd your-repo-name
+cd Tic_Tac_Toe
 
 # (Optional) Create and activate virtual environment
 python -m venv venv
